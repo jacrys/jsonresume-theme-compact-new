@@ -3,7 +3,9 @@ jsonresume-theme-compact-new
 
 A compact theme for a json-resume (http://jsonresume.org/)
 
-[Demo](http://themes.jsonresume.org/compact)
+<!-- [Demo](http://themes.jsonresume.org/compact) -->
+![resume example](./Screenshot%202022-05-11%20144422.png)
+
 
 ## Usage
 
